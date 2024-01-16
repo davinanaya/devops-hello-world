@@ -30,5 +30,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <p>automatic deployment using container...</p>
+  <p>automatic deployment using ansible</p>
 </form>
